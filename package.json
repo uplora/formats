@@ -2,7 +2,7 @@
   "name": "@uplora/formats",
   "type": "module",
   "version": "0.1.0",
-  "packageManager": "pnpm@10.12.1",
+  "packageManager": "pnpm@10.12.2",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/uplora/formats.git"
@@ -30,7 +30,7 @@
     "prepare": "husky"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^4.15.0",
+    "@antfu/eslint-config": "^4.16.1",
     "@commitlint/cli": "^19.8.1",
     "@commitlint/config-conventional": "^19.8.1",
     "changelogen": "^0.6.1",
