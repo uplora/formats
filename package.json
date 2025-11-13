@@ -2,7 +2,7 @@
   "name": "@uplora/formats",
   "type": "module",
   "version": "0.1.0",
-  "packageManager": "pnpm@10.21.0",
+  "packageManager": "pnpm@10.22.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/uplora/formats.git"
